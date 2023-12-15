@@ -80,3 +80,7 @@ footer {
     color: #000;
     margin-top: 2em;
 }
+
+footer a {
+    font-size: 24px;
+}
