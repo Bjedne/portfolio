@@ -65,6 +65,10 @@ a {
     border-radius: 1em;
 }
 
+.github-icon {
+    font-size: 40px;
+}
+
 footer {
     display: flex;
     flex-direction: column;
